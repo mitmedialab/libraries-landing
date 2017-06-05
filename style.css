@@ -1,0 +1,49 @@
+body{
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAIElEQVQoU2O8ePHif319fUYGAoCgApj+UYV4Q5Lo4AEAZosEC3PEOfQAAAAASUVORK5CYII=);
+}
+
+#page-container{
+	font-family: Helvetica, sans-serif;
+	color: #000;
+	min-height: 100vh;
+	display: flex;
+	align-items:center;
+	justify-content: center;
+}
+
+@media (min-width: 576px) {
+	#page-container{
+		padding: 150px;
+	}
+}
+
+#page-title{
+	font-size: 5vw;
+}
+
+#mll-logo{
+	height: 60px;
+}
+
+#logo-link:hover{
+	background-color: #00aeef;
+	//background-color: #ec008c;
+	//background-color: cyan;
+	display: inline-block;
+}
+
+mark{
+	background-color: #00aeef;
+	color: #fff;
+}
+
+a, a:visited{
+	color:#00aeef;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#fff;
+	background-color: #00aeef;
+	text-decoration: none;
+};

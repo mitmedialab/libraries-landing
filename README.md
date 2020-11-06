@@ -1,2 +1,4 @@
-# ML Public Library Innovation Exchange
-Visit the site > http://learn.media.mit.edu/libraries
+# ML Public Library Innovation Exchange (PLIX)
+[ARCHIVED] Old landing page for PLIX
+
+Visit the current site at https://plix.media.mit.edu.
